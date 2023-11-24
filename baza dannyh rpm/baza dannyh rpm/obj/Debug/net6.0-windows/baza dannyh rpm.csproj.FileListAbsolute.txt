@@ -1,0 +1,17 @@
+C:\Users\jenya\source\repos\baza dannyh rpm\baza dannyh rpm\obj\Debug\net6.0-windows\baza dannyh rpm.csproj.AssemblyReference.cache
+C:\Users\jenya\source\repos\baza dannyh rpm\baza dannyh rpm\obj\Debug\net6.0-windows\baza_dannyh_rpm.Form1.resources
+C:\Users\jenya\source\repos\baza dannyh rpm\baza dannyh rpm\obj\Debug\net6.0-windows\baza dannyh rpm.csproj.GenerateResource.cache
+C:\Users\jenya\source\repos\baza dannyh rpm\baza dannyh rpm\obj\Debug\net6.0-windows\baza dannyh rpm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenya\source\repos\baza dannyh rpm\baza dannyh rpm\obj\Debug\net6.0-windows\baza dannyh rpm.AssemblyInfoInputs.cache
+C:\Users\jenya\source\repos\baza dannyh rpm\baza dannyh rpm\obj\Debug\net6.0-windows\baza dannyh rpm.AssemblyInfo.cs
+C:\Users\jenya\source\repos\baza dannyh rpm\baza dannyh rpm\obj\Debug\net6.0-windows\baza dannyh rpm.csproj.CoreCompileInputs.cache
+C:\Users\jenya\source\repos\baza dannyh rpm\baza dannyh rpm\bin\Debug\net6.0-windows\baza dannyh rpm.exe
+C:\Users\jenya\source\repos\baza dannyh rpm\baza dannyh rpm\bin\Debug\net6.0-windows\baza dannyh rpm.deps.json
+C:\Users\jenya\source\repos\baza dannyh rpm\baza dannyh rpm\bin\Debug\net6.0-windows\baza dannyh rpm.runtimeconfig.json
+C:\Users\jenya\source\repos\baza dannyh rpm\baza dannyh rpm\bin\Debug\net6.0-windows\baza dannyh rpm.dll
+C:\Users\jenya\source\repos\baza dannyh rpm\baza dannyh rpm\bin\Debug\net6.0-windows\baza dannyh rpm.pdb
+C:\Users\jenya\source\repos\baza dannyh rpm\baza dannyh rpm\obj\Debug\net6.0-windows\baza dannyh rpm.dll
+C:\Users\jenya\source\repos\baza dannyh rpm\baza dannyh rpm\obj\Debug\net6.0-windows\refint\baza dannyh rpm.dll
+C:\Users\jenya\source\repos\baza dannyh rpm\baza dannyh rpm\obj\Debug\net6.0-windows\baza dannyh rpm.pdb
+C:\Users\jenya\source\repos\baza dannyh rpm\baza dannyh rpm\obj\Debug\net6.0-windows\baza dannyh rpm.genruntimeconfig.cache
+C:\Users\jenya\source\repos\baza dannyh rpm\baza dannyh rpm\obj\Debug\net6.0-windows\ref\baza dannyh rpm.dll
